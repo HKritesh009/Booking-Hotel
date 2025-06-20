@@ -73,7 +73,8 @@ cd hotel-booking-website
 ```bash
 http://localhost/hotel-booking-website
 ```
-##📄 License
+
+ ## 📄 License
 This project is licensed under the MIT License.
 
  ## 🙌 Contributing
