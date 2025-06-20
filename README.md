@@ -66,12 +66,15 @@ cd hotel-booking-website
 
 
 ### Start Apache Server (e.g., XAMPP/LAMP)
+
 ### Place the folder in htdocs if using XAMPP
 
-## Open in browser
+### Open in browser
 ```bash
 http://localhost/hotel-booking-website
 ```
+##📄 License
+This project is licensed under the MIT License.
 
  ## 🙌 Contributing
 Contributions, feedback, and suggestions are welcome!
